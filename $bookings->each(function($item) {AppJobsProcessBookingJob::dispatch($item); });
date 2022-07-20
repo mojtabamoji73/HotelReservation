@@ -1,0 +1,41 @@
+=> [34;4mIlluminate\Database\Eloquent\Collection[39;24m {#4525
+     [34mall[39m: [
+       [34;4mApp\Models\Booking[39;24m {#4526
+         [34mid[39m: [35m16[39m,
+         [34mroom_id[39m: [35m12[39m,
+         [34mstart[39m: "[32m2022-05-28[39m",
+         [34mend[39m: "[32m2022-06-23[39m",
+         [34mis_reservation[39m: [35m1[39m,
+         [34mis_paid[39m: [35m1[39m,
+         [34mnotes[39m: "[32mthis is pre-paid reservation[39m",
+         [34mcreated_at[39m: [36mnull[39m,
+         [34mupdated_at[39m: "[32m2022-06-24 12:14:34[39m",
+         [34mdeleted_at[39m: [36mnull[39m,
+       },
+       [34;4mApp\Models\Booking[39;24m {#4527
+         [34mid[39m: [35m26[39m,
+         [34mroom_id[39m: [35m9[39m,
+         [34mstart[39m: "[32m2022-06-16[39m",
+         [34mend[39m: "[32m2022-06-22[39m",
+         [34mis_reservation[39m: [35m1[39m,
+         [34mis_paid[39m: [35m1[39m,
+         [34mnotes[39m: "[32mhi[39m",
+         [34mcreated_at[39m: "[32m2022-06-14 07:57:07[39m",
+         [34mupdated_at[39m: "[32m2022-06-14 07:57:07[39m",
+         [34mdeleted_at[39m: [36mnull[39m,
+       },
+       [34;4mApp\Models\Booking[39;24m {#4528
+         [34mid[39m: [35m27[39m,
+         [34mroom_id[39m: [35m5[39m,
+         [34mstart[39m: "[32m2022-06-18[39m",
+         [34mend[39m: "[32m2022-06-25[39m",
+         [34mis_reservation[39m: [35m1[39m,
+         [34mis_paid[39m: [35m0[39m,
+         [34mnotes[39m: [36mnull[39m,
+         [34mcreated_at[39m: "[32m2022-06-14 07:57:24[39m",
+         [34mupdated_at[39m: "[32m2022-06-14 07:57:24[39m",
+         [34mdeleted_at[39m: [36mnull[39m,
+       },
+     ],
+   }
+
